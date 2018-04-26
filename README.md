@@ -13,3 +13,4 @@ Description of project team: participants, their bio, project roles, contacts, e
 
 ## Instructions and manuals
 [Link to project manual.pdf](/manuals/manual.pdf)
+hahaha
